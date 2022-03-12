@@ -1,0 +1,6 @@
+https://medium.com/geekculture/getting-started-with-django-social-authentication-80ee7dc26fe0
+
+login: google
+parol: google
+
+pip freeze > requirements.txt
